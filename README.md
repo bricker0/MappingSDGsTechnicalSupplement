@@ -17,11 +17,13 @@ All tutorials demonstrate map design using the open access mapping software [QGI
 
 The tutorials were developed by Lily Houtman and Robert E. Roth of the [University Wisconsin Cartography Lab](https://geography.wisc.edu/cartography/) under NSF #1555267 and are freely available for personal or classroom/workshop use following a CC BY-NC license.
 
+This version of the tutorials have been modified for teaching purposes for Britta Ricker to use in teaching at the <a href="https://www.uu.nl/en/research/copernicus-institute-of-sustainable-development"> Copernicus Institute for Sustainable Development. </a>
+
 ## How to Use These Tutorials
 
-There are three sets of tutorials that follow the technical design and implementation of a choropleth, proportional symbol, and nominal map from _Mapping for a Sustainable World_. The tutorials are meant to be created sequentially and use a number 1.1, 1.2, 2.1, 2.2, etc., to indicate the sequence.
+There are three sets of tutorials that follow the technical design and implementation of a choropleth, proportional symbol, and nominal map from _Mapping for a Sustainable World_. The tutorials are meant to be created sequentially and use a number 1.1, 1.2, 2.1, 2.2, etc., to indicate the sequence. For Britta's courses - you only need to do the choropleth map portion of these tutorials. 
 
-The tutorials are meant to enhance but not replicate information from _Mapping for a Sustainable World_. Keywords from _Mapping for a Sustainable World_ use bold and italics and are followed with the definition from the glossary offset with a reference to the relevant book section (Note: _Mapping for a Sustainable World_ uses British English).
+The tutorials are meant to enhance but not replicate information from _Mapping for a Sustainable World_. Keywords from _Mapping for a Sustainable World_ use bold and italics and are followed with the definition from the glossary offset with a reference to the relevant book section (Note: _Mapping for a Sustainable World_ uses British English). The SDG indicators are constantly being updated, these tutorials can be used to make new and updated maps with these new datasets.
 
 ## Table of Contents
 
