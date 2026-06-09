@@ -11,7 +11,7 @@
 
 ## About
 
-These tutorials pair with the open-source book [_Mapping for a Sustainable World_](http://bit.ly/SDGbook). The book teaches principles of cartography through the United Nations’ 17 Sustainable Development Goals. Mapping for a Sustainable World was developed as a collaboration between the United Nations and the International Cartographic Association with the University of Wisconsin Cartography Lab supporting creation of the book layout and all maps and graphics through [National Science Foundation CAREER Grant #1555267](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1555267).
+These tutorials pair with the open-source book [_Mapping for a Sustainable World_](http://bit.ly/SDGbook). The book teaches principles of cartography through the United Nations’ 17 Sustainable Development Goals. Mapping for a Sustainable World was developed as a collaboration between the United Nations and the International Cartographic Association, with the University of Wisconsin Cartography Lab supporting creation of the book layout and all maps and graphics through [National Science Foundation CAREER Grant #1555267](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1555267).
 
 All tutorials demonstrate map design using the open access mapping software [QGIS](https://qgis.org/en/site/). Thus, the objective of these tutorials is to enhance the cartographic design thinking described in Mapping for a Sustainable World with technical map software training, putting concepts into practice.
 
